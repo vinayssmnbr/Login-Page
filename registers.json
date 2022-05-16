@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "627ffd0f5f3c8a3432569191"
+  },
+  "firstname": "vicky",
+  "lastname": "kumar",
+  "email": "vicky@gmail.com",
+  "password": "123",
+  "confirmpassword": "123",
+  "gender": "male",
+  "phone": 1234567891,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627ffd93150c827147ce2486"
+  },
+  "firstname": "ayush",
+  "lastname": "kumar",
+  "email": "ayush@gmail.com",
+  "password": "12",
+  "confirmpassword": "12",
+  "gender": "male",
+  "phone": 1234567890,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627ffe472986d3b4737a4cea"
+  },
+  "firstname": "vinay",
+  "lastname": "kumar",
+  "email": "vinay@jsn",
+  "password": "vinay@123",
+  "confirmpassword": "vinay@123",
+  "gender": "male",
+  "phone": 1234567890,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6281d1cd19eeaf3c79e54938"
+  },
+  "firstname": "J",
+  "lastname": "S",
+  "email": "j@gs.com",
+  "password": "123",
+  "confirmpassword": "123",
+  "gender": "male",
+  "phone": {
+    "$numberLong": "6204958560"
+  },
+  "__v": 0
+}]
